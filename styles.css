@@ -3,9 +3,13 @@ body {
     font-size: 28px;
 }
 
+.content {
+    background-color: #feefdb;
+}
+
 .a, .b, .c, .d, .e, .f {
     color: white;
-    background-color: darkred;
+    background-color: #ba3b46;
     align-content: center;
     justify-content: center;
     display: flex;
